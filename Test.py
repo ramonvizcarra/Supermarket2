@@ -297,3 +297,4 @@ if x in meat or seafood or alcohol or dairy or produce or bakery or deli or orga
     # print(x)
     shopping_cart.append(x)
 print("So far you have this in your shopping cart: " + str(shopping_cart))
+print("... to be continued")
